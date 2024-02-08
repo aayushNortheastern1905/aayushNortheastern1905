@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aayushNortheastern1905
+- 👋 Hi, I’m Aayush Sawamt
 - 👀 I’m interested in full stack development ,machine learning and User Experience Engineering
 - 🌱 I’m currently a graduate student at Northeastern University, Boston
 - 💞️ I’m looking to collaborate on full stack development and machine learning projects.
