@@ -6,12 +6,11 @@ I'm a **Graduate Student in Information Systems** at Northeastern University, Bo
 ## 💼 Professional Experience
 - **Software Engineer Intern @ EmTech Care Labs** - Built healthcare automation systems, developed CareWallet v2 for HIPAA-compliant Medicaid processing with event-driven architecture
 - **Software Engineer @ eQ Technologic** - Created deployment automation tools for Fortune 500 clients including Lockheed Martin, built the eQube Deployment Manager processing 10,000+ configurations
-- **Tech Writer @ The Huntington News** - Covering campus culture, technology trends, and student experiences
+- **Staff Writer @ The Huntington News** - Covering campus culture, technology trends, and student experiences
 
 ## 🛠️ What I've Built
 - **[VeryDesi.com](https://verydesi.com)** - Housing platform serving 300+ users in the South Asian student community, solving real pain points for international students
 - **Immigration AI Agent** *(In Progress)* - Intelligent assistant to help navigate complex immigration processes
-- **Portfolio-Hub** - SaaS platform enabling data professionals to showcase and deploy Python/R applications seamlessly
 
 ## 👀 I'm Interested In
 Full Stack Development • Machine Learning • Platform Engineering • Cloud Computing • PropTech • HealthTech
