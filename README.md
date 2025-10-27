@@ -13,7 +13,7 @@ I'm a **Graduate Student in Information Systems** at Northeastern University, Bo
 - **Immigration AI Agent** *(In Progress)* - Intelligent assistant to help navigate complex immigration processes
 
 ## 👀 I'm Interested In
-Full Stack Development • Machine Learning • Platform Engineering • Cloud Computing • PropTech • HealthTech
+Full Stack Development • Machine Learning • Platform Engineering • Cloud Computing • PropTech • HealthTech • Consumer Tech
 
 ## 🌱 Currently
 - Building an **Immigration AI Agent** to simplify visa processes
